@@ -7,7 +7,7 @@
     </pbundle_as_map>
     <pbundle_as_map>
         <string-array name="mccmnc">
-            <item value="20826?gid1=NRJ1" />
+            <item value="20826" />
         </string-array>
         <int name="vvm_port_number_int" value="5499" />
         <string name="vvm_destination_number_string">8860</string>
